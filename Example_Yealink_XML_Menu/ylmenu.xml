@@ -4,11 +4,11 @@
     <Title>Company Contacts</Title>
     <MenuItem>
        	<!-- This name shows in the menu when the button is pressed -->
-        <Name>Employees</Name>
+        <Prompt>Employees</Prompt>
         <URL>https://sweed.us6.ympcloud.com/autoprovision/a4ada69c30fcd78b/contacts/Yealink/Personal_Contacts_5932.xml</URL>
     </MenuItem>
     <MenuItem>
-        <Name>Shared Contacts</Name>
+        <Prompt>Shared Contacts</Prompt>
         <URL>https://sweed.us6.ympcloud.com/autoprovision/a4ada69c30fcd78b/contacts/Yealink/Company_Contacts.xml</URL>
     </MenuItem>
 </YealinkIPPhoneDirectory>
