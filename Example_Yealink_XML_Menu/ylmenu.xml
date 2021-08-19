@@ -5,10 +5,10 @@
     <MenuItem>
        	<!-- This name shows in the menu when the button is pressed -->
         <Prompt>Employees</Prompt>
-        <URL>https://sweed.us6.ympcloud.com/autoprovision/a4ada69c30fcd78b/contacts/Yealink/Personal_Contacts_5932.xml</URL>
+        <URI>https://sweed.us6.ympcloud.com/autoprovision/a4ada69c30fcd78b/contacts/Yealink/Personal_Contacts_5932.xml</URI>
     </MenuItem>
     <MenuItem>
         <Prompt>Shared Contacts</Prompt>
-        <URL>https://sweed.us6.ympcloud.com/autoprovision/a4ada69c30fcd78b/contacts/Yealink/Company_Contacts.xml</URL>
+        <URI>https://sweed.us6.ympcloud.com/autoprovision/a4ada69c30fcd78b/contacts/Yealink/Company_Contacts.xml</URI>
     </MenuItem>
 </YealinkIPPhoneDirectory>
