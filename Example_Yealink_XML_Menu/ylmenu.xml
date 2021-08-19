@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<YealinkIPPhoneMenu>
+<YealinkIPPhoneDirectory>
     <!-- Title can show on the phone depending on settings in phone -->
     <Title>Company Contacts</Title>
     <MenuItem>
@@ -11,4 +11,4 @@
         <Name>Shared Contacts</Name>
         <URL>https://sweed.us6.ympcloud.com/autoprovision/a4ada69c30fcd78b/contacts/Yealink/Company_Contacts.xml</URL>
     </MenuItem>
-</YealinkIPPhoneMenu>
+</YealinkIPPhoneDirectory>
